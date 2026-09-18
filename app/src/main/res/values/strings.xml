@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Moneyfy</string>
+    <string-array name="security_questions">
+        <item>Select a Security Question</item>
+        <item>What is your mother\'s maiden name?</item>
+        <item>What was the name of your first pet?</item>
+        <item>What was your first car model?</item>
+        <item>What is the name of your elementary school?</item>
+        <item>What city were you born in?</item>
+    </string-array>
+</resources>

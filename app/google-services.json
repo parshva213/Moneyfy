@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "412341939905",
+    "firebase_url": "https://moneyfy-phs-default-rtdb.firebaseio.com",
+    "project_id": "moneyfy-phs",
+    "storage_bucket": "moneyfy-phs.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412341939905:android:651e639c3b605c3e5bae40",
+        "android_client_info": {
+          "package_name": "com.moneyfy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412341939905-4uopq9q8f73ugus185dcpc2f0nchndol.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moneyfy",
+            "certificate_hash": "00b022ff255c3ef44438c4bd1e1ac56fb7e91bc3"
+          }
+        },
+        {
+          "client_id": "412341939905-jkdq8cecv28089d2ckealrb7iqj0nvki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzclWxKnj2arAnhgdYqSfJ9eZ85NYpObU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412341939905-jkdq8cecv28089d2ckealrb7iqj0nvki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
