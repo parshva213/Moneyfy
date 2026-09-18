@@ -14,7 +14,6 @@
   <img src="https://img.shields.io/badge/Android-API%2029%2B-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android API" />
   <img src="https://img.shields.io/badge/Kotlin-2.0.21-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
   <img src="https://img.shields.io/badge/Firebase-Connected-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/SIH-2026%20Edition-FF5252?style=for-the-badge" alt="SIH 2026" />
 </p>
 
 ---
@@ -43,7 +42,7 @@
 
 **Moneyfy** is a modern Android personal finance application designed to give you full control over your money. It supports multi-account management, categorized expense/income tracking, contact-linked transactions, and real-time Firebase synchronization — all wrapped in a stunning dual light/dark theme built entirely with Jetpack Compose.
 
-Built as a **SIH 2026 Edition** project, Moneyfy demonstrates production-quality Android development practices including MVVM architecture, reactive state management via Kotlin Coroutines + StateFlow, and a fully offline-capable Firebase-backed data layer.
+Moneyfy demonstrates production-quality Android development practices including MVVM architecture, reactive state management via Kotlin Coroutines + StateFlow, and a fully offline-capable Firebase-backed data layer.
 
 ---
 
@@ -439,9 +438,9 @@ data class Contact(
 ## 📄 License
 
 ```
-Copyright © 2026 Moneyfy Team. All rights reserved.
+Copyright © 2026 Moneyfy. All rights reserved.
 
-Designed and Developed for SIH 2026.
+A personal finance project. All rights reserved.
 ```
 
 ---

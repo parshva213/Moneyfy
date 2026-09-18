@@ -88,7 +88,7 @@ fun AboutScreen(
                     )
 
                     Text(
-                        text = "Version 1.0.0 (SIH 2026 Edition)",
+                        text = "Version 1.0.0",
                         style = MaterialTheme.typography.bodyMedium,
                         color = Primary,
                         fontWeight = FontWeight.SemiBold
@@ -164,7 +164,7 @@ fun AboutScreen(
                     Row(verticalAlignment = Alignment.CenterVertically) {
                         Icon(Icons.Default.Group, contentDescription = null, tint = Primary, modifier = Modifier.size(20.dp))
                         Spacer(modifier = Modifier.width(10.dp))
-                        Text("Designed and Developed for SIH 2026", color = MoneyfyTheme.colors.textPrimary, fontWeight = FontWeight.SemiBold)
+                        Text("Designed and Developed by the Moneyfy Team", color = MoneyfyTheme.colors.textPrimary, fontWeight = FontWeight.SemiBold)
                     }
                     Text(
                         "© 2026 Moneyfy Team. All rights reserved.",
